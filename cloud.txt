@@ -1,3 +1,4 @@
 Hello This is my first Job on Jenkins 
 I am editing this file
 I want to Run as POll SCM
+Here i am using Github hook Trigger
